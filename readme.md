@@ -4,9 +4,9 @@ Este é um repositório criado para desenvolvimento das atividades, tarefas e de
 Este tem um fim exclusivamente didádico, usado para aprendizado, teste e vericação de erros.
 O curso é levado em consideração pessoas que estão começando a programação do zero, assim como eu.
 Até o momento aprendemos:
-- [ ][x] O que é a programação
-- [ ][x] Introdução e interação com o terminal
-- [ ][x] Introdução ao  Git e GiHub
-- [ ][x] Fundamentos da programação
-- [ ][x] Comandos de programação
-- [ ][x] Lógica de programação
+:heavy_check_mark: O que é a programação
+:heavy_check_mark: Introdução e interação com o terminal
+:heavy_check_mark: Introdução ao  Git e GiHub
+:heavy_check_mark: Fundamentos da programação
+:heavy_check_mark: Comandos de programação
+:heavy_check_mark: Lógica de programação
